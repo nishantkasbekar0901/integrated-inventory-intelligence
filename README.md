@@ -1,5 +1,9 @@
 # Integrated Inventory Intelligence (I³)
 
+## Live Prototype
+
+https://nishantkasbekar0901.github.io/integrated-inventory-intelligence/
+
 ## Overview
 
 Integrated Inventory Intelligence (I³) is an academic product design prototype developed as part of IT Product Design coursework.
